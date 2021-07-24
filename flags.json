@@ -1,5 +1,6 @@
 {
   "latestVersionName": "0.1.0-alpha31",
   "latestVersionCode": 31,
-  "changelog": "Improve list zoom performance"
+  "isRequiredVersion": false,
+  "changelog": "Improve list zoom performance",
 }
