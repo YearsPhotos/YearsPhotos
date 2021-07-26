@@ -1,6 +1,6 @@
 {
-  "latestVersionName": "0.1.0-alpha35",
-  "latestVersionCode": 35,
+  "latestVersionName": "0.1.0-alpha37",
+  "latestVersionCode": 37,
   "isRequiredVersion": false,
-  "changelog": "* Improve list zoom performance"
+  "changelog": "* Improve list zoom performance\n* Improve fast zoom\n* Ensure that the square image is restored after pressing"
 }
