@@ -1,6 +1,6 @@
 {
-  "latestVersionName": "0.1.0-alpha37",
-  "latestVersionCode": 37,
+  "latestVersionName": "0.1.0-alpha38",
+  "latestVersionCode": 38,
   "isRequiredVersion": false,
-  "changelog": "* Improve list zoom performance\n* Improve fast zoom\n* Ensure that the square image is restored after pressing"
+  "changelog": "* Add a loading animation when loading images for the first time to reduce the tedium of waiting during the first load\n* Now click on Tab to go back to the top and a small vibration will occur\n* Add over scale rebound animation when the list cannot be further zoomed\n\n---\n\n* 新增 初次加载图片时显示加载动画，减少初次加载过程中等待的乏味感\n* 现在点击 Tab 能够回到顶部，并且会发生微小的振动\n* 新增 当列表无法进一步缩放时，显示过度回弹动画"
 }
