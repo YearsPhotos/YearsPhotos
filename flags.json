@@ -1,6 +1,6 @@
 {
-  "latestVersionName": "0.1.0-alpha42",
-  "latestVersionCode": 42,
+  "latestVersionName": "0.1.0-alpha44",
+  "latestVersionCode": 44,
   "isRequiredVersion": false,
-  "changelog": "* Many updates!\n\n---\n\n* 大量更新！"
+  "changelog": "* Group photos of this week (exclude today) when span count is 4\n\n---\n\n* 当列数为 4 时，聚合本周（除了今日）"
 }
