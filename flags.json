@@ -1,6 +1,6 @@
 {
-  "latestVersionName": "0.1.0-alpha45",
-  "latestVersionCode": 45,
+  "latestVersionName": "0.1.0-alpha46",
+  "latestVersionCode": 46,
   "isRequiredVersion": false,
-  "changelog": "* Several optimizations and popular updates\n\n---\n\n* 几个优化和众望所归的更新"
+  "changelog": "* Support rotating photos\n*Fix Yesterday's photos may have no category header\n\n---\n\n* 重新支持 临时性旋转图片\n* 修复 昨天的照片可能没有栏目名\n* 优化 如果系统语言为中文，则以周一为一周开始"
 }
