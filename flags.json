@@ -1,6 +1,6 @@
 {
-  "latestVersionName": "0.1.0-alpha51",
-  "latestVersionCode": 51,
+  "latestVersionName": "0.1.0-alpha52",
+  "latestVersionCode": 52,
   "isRequiredVersion": false,
-  "changelog": "* Faster\n\n---\n\n* 根本上修复相册错乱问题"
+  "changelog": "* Bugfix\n\n---\n\n* 修复 按 Home 键退出相册页面后再打开时相册内容会错乱"
 }
