@@ -1,6 +1,6 @@
 {
-  "latestVersionName": "0.1.0-alpha54",
-  "latestVersionCode": 54,
+  "latestVersionName": "0.1.0-alpha56",
+  "latestVersionCode": 56,
   "isRequiredVersion": false,
-  "changelog": "* Solve the problem of image detail page stuck after returning to the application from Home\n* Each list now has a separate detail image page, which completely solves the problem of data conflict in the foreground\n\n---\n\n* 解决 从桌面回到应用后，图片详情页卡住问题\n* 每个列表独立一个详情页，彻底解决前台数据冲突问题，之前的图片详情页面是全局复用的"
+  "changelog": "* Adapt 2/3-button navigation bar mode\n* Solve the problem of image detail page stuck after returning to the application from Home\n* Each list now has a separate detail image page, which completely solves the problem of data conflict in the foreground\n\n---\n\n* 解决 从桌面回到应用后，图片详情页卡住问题\n* 每个列表独立一个详情页，彻底解决前台数据冲突问题，之前的图片详情页面是全局复用的"
 }
