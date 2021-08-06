@@ -1,6 +1,6 @@
 {
-  "latestVersionName": "0.1.0-alpha60",
-  "latestVersionCode": 60,
+  "latestVersionName": "0.1.0-alpha61",
+  "latestVersionCode": 61,
   "isRequiredVersion": false,
   "changelog": "里程碑版本！\n* 解决 各种图片方向不正确问题（特别是三星手机拍摄的大图）\n* 支持 GIF 及对其横向划动切换图片\n* 更快的 HEIF 图片加载\n---\nMilestone version!\n* Solve the problem of incorrect orientation of various pictures (especially the large pictures taken by Samsung devices)\n* Support GIF and switch images by swiping them horizontally\n* Faster HEIF image loading"
 }
