@@ -1,6 +1,6 @@
 {
-  "latestVersionName": "0.1.0-alpha56",
-  "latestVersionCode": 56,
+  "latestVersionName": "0.1.0-alpha59",
+  "latestVersionCode": 59,
   "isRequiredVersion": false,
-  "changelog": "* Bugfixes\n* Adapt 2/3-button navigation bar mode\n* Solve the problem of image detail page stuck after returning to the application from Home\n* Each list now has a separate detail image page, which completely solves the problem of data conflict in the foreground\n\n---\n\n* 多项问题修复\n* 解决 从桌面回到应用后，图片详情页卡住问题\n* 每个列表独立一个详情页，彻底解决前台数据冲突问题，之前的图片详情页面是全局复用的"
+  "changelog": "里程碑版本！\n* 解决 各种图片方向不正确问题（特别是三星手机拍摄的大图）\n* 支持 GIF 及对其横向划动切换图片\n* 更快的 HEIF 图片加载\n---\nMilestone version!\n* Solve the problem of incorrect orientation of various pictures (especially the large pictures taken by Samsung devices)\n* Support GIF and switch images by swiping them horizontally\n* Faster HEIF image loading"
 }
