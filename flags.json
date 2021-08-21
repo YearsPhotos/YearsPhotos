@@ -1,6 +1,6 @@
 {
-  "latestVersionName": "0.1.0-alpha66",
-  "latestVersionCode": 66,
+  "latestVersionName": "0.1.0-alpha68",
+  "latestVersionCode": 68,
   "isRequiredVersion": false,
-  "changelog": "* 支持 预览选中的图片以检查是否选对图片（在普通长按选择和作为图片选择器时选择皆有效）\n* 支持作为图片选择器被其他应用调用\n---\n* Support for being called by other apps as an image picker\n* 修复加载巨大的 JPG 图片后，左右滚动和手势划动退出过程中动画掉帧问题\n* 更快的 JPG 加载，而且超清显示\n---\n* Bugfixes and improvements for JPG loading\n\n里程碑版本！\n* 解决 各种图片方向不正确问题（特别是三星手机拍摄的大图）\n* 支持 GIF 及对其横向划动切换图片\n* 更快的 HEIF 图片加载\n---\nMilestone version!\n* Solve the problem of incorrect orientation of various pictures (especially the large pictures taken by Samsung devices)\n* Support GIF and switch images by swiping them horizontally\n* Faster HEIF image loading"
+  "changelog": "* 支持 收藏和彻底删除\n* 支持 预览选中的图片以检查是否选对图片（在普通长按选择和作为图片选择器时选择皆有效）\n* 支持作为图片选择器被其他应用调用\n---\n* Support for being called by other apps as an image picker\n* 修复加载巨大的 JPG 图片后，左右滚动和手势划动退出过程中动画掉帧问题\n* 更快的 JPG 加载，而且超清显示\n---\n* Bugfixes and improvements for JPG loading\n\n里程碑版本！\n* 解决 各种图片方向不正确问题（特别是三星手机拍摄的大图）\n* 支持 GIF 及对其横向划动切换图片\n* 更快的 HEIF 图片加载\n---\nMilestone version!\n* Solve the problem of incorrect orientation of various pictures (especially the large pictures taken by Samsung devices)\n* Support GIF and switch images by swiping them horizontally\n* Faster HEIF image loading"
 }
